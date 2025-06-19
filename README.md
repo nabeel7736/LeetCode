@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/nabeel7736/LeetCode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
