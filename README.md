@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nabeel7736/LeetCode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
