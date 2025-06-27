@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
+| [0137-single-number-ii](https://github.com/nabeel7736/LeetCode/tree/master/0137-single-number-ii) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/nabeel7736/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
