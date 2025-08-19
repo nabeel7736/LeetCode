@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nabeel7736/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/nabeel7736/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nabeel7736/LeetCode/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
