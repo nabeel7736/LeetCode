@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nabeel7736/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nabeel7736/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nabeel7736/LeetCode/tree/master/0066-plus-one) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nabeel7736/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/nabeel7736/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nabeel7736/LeetCode/tree/master/0344-reverse-string) |
