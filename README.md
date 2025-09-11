@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nabeel7736/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nabeel7736/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nabeel7736/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nabeel7736/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/nabeel7736/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nabeel7736/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nabeel7736/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nabeel7736/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
