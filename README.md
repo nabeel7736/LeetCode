@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nabeel7736/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/nabeel7736/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
