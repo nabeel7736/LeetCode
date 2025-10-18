@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/nabeel7736/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nabeel7736/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/nabeel7736/LeetCode/tree/master/0742-to-lower-case) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/nabeel7736/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
