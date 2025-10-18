@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nabeel7736/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/nabeel7736/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
