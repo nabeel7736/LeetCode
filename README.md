@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nabeel7736/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/nabeel7736/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/nabeel7736/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nabeel7736/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
