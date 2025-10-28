@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/nabeel7736/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nabeel7736/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/nabeel7736/LeetCode/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/nabeel7736/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nabeel7736/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
