@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nabeel7736/LeetCode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1791-richest-customer-wealth](https://github.com/nabeel7736/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/nabeel7736/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/nabeel7736/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nabeel7736/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/nabeel7736/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
