@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nabeel7736/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nabeel7736/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/nabeel7736/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/nabeel7736/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nabeel7736/LeetCode/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nabeel7736/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nabeel7736/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nabeel7736/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/nabeel7736/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nabeel7736/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nabeel7736/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nabeel7736/LeetCode/tree/master/0344-reverse-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nabeel7736/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nabeel7736/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nabeel7736/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nabeel7736/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nabeel7736/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nabeel7736/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nabeel7736/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nabeel7736/LeetCode/tree/master/0217-contains-duplicate) |
 | [3226-minimum-number-game](https://github.com/nabeel7736/LeetCode/tree/master/3226-minimum-number-game) |
